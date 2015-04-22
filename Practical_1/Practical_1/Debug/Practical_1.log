@@ -1,0 +1,24 @@
+﻿Build started 4/22/2015 9:46:01 AM.
+     1>Project "C:\Users\140522J\Desktop\ADS\Practical_1\Practical_1\Practical_1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Practical_1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\140522J\Desktop\ADS\Practical_1\Debug\Practical_1.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Practical_1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\140522J\Desktop\ADS\Practical_1\Debug\Practical_1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\140522J\Desktop\ADS\Practical_1\Debug\Practical_1.lib" /MACHINE:X86 Debug\APoint.obj
+         Debug\BaseClass.obj
+         Debug\DerivedClass.obj
+         Debug\main.obj
+         LINK : C:\Users\140522J\Desktop\ADS\Practical_1\Debug\Practical_1.exe not found or not built by the last incremental link; performing full link
+         Practical_1.vcxproj -> C:\Users\140522J\Desktop\ADS\Practical_1\Debug\Practical_1.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\140522J\Desktop\ADS\Practical_1\Debug\Practical_1.exe;#1" /manifest Debug\Practical_1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Practical_1.unsuccessfulbuild".
+         Touching "Debug\Practical_1.lastbuildstate".
+     1>Done Building Project "C:\Users\140522J\Desktop\ADS\Practical_1\Practical_1\Practical_1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.84
